@@ -1,4 +1,4 @@
 # etch-a-sketch    
-Live demo
+[Live demo](https://hbapte.github.io/etch-a-sketch/)
 
-The Odin project task
+[The Odin project || task ](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
